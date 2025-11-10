@@ -1,0 +1,21 @@
+
+https://github.com/Rishikkeshpathak/OpencartV121.git
+
+
+Jenkins 
+"C:\Program Files\Java\jdk-21\bin\java.exe" -jar C:\jenkins\jenkins.war
+
+
+
+
+password 
+38b1fffd3e3049d5a79a3224c94e103a
+
+to get password C:\Users\HP\.jenkins\secrets\initialAdminPassword
+
+
+
+http://localhost:8080/ URL 
+admin
+admin
+Rishikkeshpathak

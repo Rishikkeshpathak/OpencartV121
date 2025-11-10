@@ -24,3 +24,17 @@
 19:21:10.585 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC_001 AccountRegistration
 19:21:12.979 [main] INFO  testCases.TC002_LoginTest - ********************Staring TC002 Login Test*************
 19:21:15.109 [main] INFO  testCases.TC002_LoginTest - ********************Finished  TC002 Login Test*************
+09:41:42.562 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Strarting Testing  TC_001 AccountRegistration*********************
+09:41:42.708 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Click on My accouunt info
+09:41:43.630 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Click on My Register page info
+09:41:45.556 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Click on My valiadated expected messgae info
+09:41:45.613 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC_001 AccountRegistration
+09:41:50.375 [main] INFO  testCases.TC002_LoginTest - ********************Staring TC002 Login Test*************
+09:41:52.565 [main] INFO  testCases.TC002_LoginTest - ********************Finished  TC002 Login Test*************
+09:38:42.533 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* Strarting Testing  TC_001 AccountRegistration*********************
+09:38:42.682 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Click on My accouunt info
+09:38:43.671 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Click on My Register page info
+09:38:46.083 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Click on My valiadated expected messgae info
+09:38:46.142 [main] INFO  testCases.TC001_AccountRegistrationTest - ******** Finished TC_001 AccountRegistration
+09:38:53.405 [main] INFO  testCases.TC002_LoginTest - ********************Staring TC002 Login Test*************
+09:38:55.933 [main] INFO  testCases.TC002_LoginTest - ********************Finished  TC002 Login Test*************
